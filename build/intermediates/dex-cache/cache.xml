@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="A:\Android-Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ec855ad44efe98ab62e28f321140ea7620e56f35.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edwin\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.0-6eef48a23a3f466c873235193277b90e878fe61d.jar" />
+    </item>
+    <item
+        jar="F:\Descargas\InstaMaterial-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\classes-3f64be71cfd3d4656f3f754f998201d0ed5fa1af.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edwin\.gradle\caches\modules-2\files-2.1\com.facebook.rebound\rebound\0.3.6\d6e00af70407742e97f3f378f9b0382be8130ab7\rebound-0.3.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d6e00af70407742e97f3f378f9b0382be8130ab7">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\rebound-0.3.6-cf81da0155541e76823bb8165b0e3dbec1c2cfbd.jar" />
+    </item>
+    <item
+        jar="F:\Descargas\InstaMaterial-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\classes-4df1fdb4782b6b400af689e71d16e48b4f830a37.jar" />
+    </item>
+    <item
+        jar="F:\Descargas\InstaMaterial-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\classes-8490a9e6d630868d5d6de1744198f065fe963adf.jar" />
+    </item>
+    <item
+        jar="F:\Descargas\InstaMaterial-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\classes-926b663044dbd0a7a5b00246304638e61ff182e1.jar" />
+    </item>
+    <item
+        jar="F:\Descargas\InstaMaterial-master\app\build\intermediates\exploded-aar\com.jakewharton.hugo\hugo-runtime\1.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="25bac7a5db190df4dabc9e282b0cb57d400c415b">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\classes-762ed93a473eeb38b6f4379d40a6c4d02ee042c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edwin\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0-ef190a7264c50b85840594de60c98d0aee399c4e.jar" />
+    </item>
+    <item
+        jar="F:\Descargas\InstaMaterial-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-0e9db49ca5cb4e42b41dacc22c333d33cd35915a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edwin\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.7.4\e49a5c0acee8fd66225dc1d031692d132323417f\aspectjrt-1.7.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e49a5c0acee8fd66225dc1d031692d132323417f">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\aspectjrt-1.7.4-3d02b20271c4946baa2ae2c6049f951f02548cf6.jar" />
+    </item>
+    <item
+        jar="F:\Descargas\InstaMaterial-master\app\build\intermediates\exploded-aar\com.android.support\palette-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="926692214530f39eaed89159237d26cdc0ae6e48">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\classes-e5e2b9f4346957ab68ccb03450b96ddf150191eb.jar" />
+    </item>
+    <item
+        jar="F:\Descargas\InstaMaterial-master\app\build\intermediates\exploded-aar\com.commonsware.cwac\camera\0.6.12\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="733494514a30e5e5c60da15444b7d720590679c4">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\classes-a17a1719511ff1745e782da1eb95ab8e85bdf97c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edwin\.gradle\caches\modules-2\files-2.1\com.jakewharton.hugo\hugo-annotations\1.1.0\e67a622a9034c9e995750528180b8e19434f6e02\hugo-annotations-1.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e67a622a9034c9e995750528180b8e19434f6e02">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\hugo-annotations-1.1.0-52a994dc438bcb02956a10ee1b2b4a7b143b8375.jar" />
+    </item>
+    <item
+        jar="F:\Descargas\InstaMaterial-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-9f74e3f100a4f73949dd3a3e0267128e3145da79.jar" />
+    </item>
+    <item
+        jar="F:\Descargas\InstaMaterial-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\classes-a710f7610bed5f3de3f09e4d6b91d3515e939044.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edwin\.gradle\caches\modules-2\files-2.1\com.jakewharton.timber\timber\2.5.1\3baf6307dcdc2e35db9c2c616b16faa5fba4917c\timber-2.5.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3baf6307dcdc2e35db9c2c616b16faa5fba4917c">
+        <dex dex="F:\Descargas\InstaMaterial-master\app\build\intermediates\pre-dexed\debug\timber-2.5.1-c814b840ea90466c3313956a48da51891b723b1d.jar" />
+    </item>
+
+</items>
